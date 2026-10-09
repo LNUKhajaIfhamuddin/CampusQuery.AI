@@ -1,0 +1,476 @@
+{
+  "documents": [
+    {
+      "title": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+      "category": "Academic",
+      "filename": "academic_regulations_2025_2026.txt",
+      "mimeType": "text/plain",
+      "sizeBytes": 4200,
+      "active": true,
+      "isDemo": true,
+      "content": "CAMPUS UNIVERSITY - UNDERGRADUATE ACADEMIC POLICIES & PROCEDURES (2025-2026)\n\nSection 1: Course Add / Drop and Census Deadlines\nStudents may add or drop classes without academic or financial penalty through 11:59 PM on the 10th instructional day of the fall or spring semester, known as the Official University Census Date. Classes dropped before or on Census Date leave no mark on the official transcript, and 100% of applicable tuition charges for dropped units are credited back to the student account.\nCourses dropped after Census Date through the end of the 10th week of the semester require an instructor signature and will result in an official \"W\" (Withdrawal) notation on the transcript. Withdrawals carry no GPA penalty, but tuition is non-refundable. Students are permitted a maximum lifetime limit of 18 semester withdrawal units across their entire undergraduate career. Withdrawals requested after Week 10 are considered Emergency Withdrawals and require documented catastrophic circumstances approved by the Dean of Undergraduate Studies.\n\nSection 2: Grade Forgiveness & Course Repetition Policy\nUndergraduate students are permitted to repeat up to 16 semester credit units for Grade Forgiveness. When an eligible course is repeated for forgiveness:\n1. Only the newly earned grade is calculated into the cumulative grade point average (GPA).\n2. The initial grade earned remains visible on the official transcript annotated with an \"R\" (Repeated) notation.\n3. Grade forgiveness only applies to courses where the first grade earned was a C-, D+, D, D-, or F.\n4. An individual course may only be repeated twice (maximum of three total attempts). A third attempt requires prior written authorization from the Department Chair and College Dean.\n5. If a student exhausts their 16 units of Grade Forgiveness, subsequent repeated units will be averaged together with the original grade in the GPA calculation.\n\nSection 3: Incomplete (\"I\") Grade Guidelines\nAn Incomplete (\"I\") grade may be assigned by a course instructor only when:\n- The student has successfully completed at least 70% of total coursework with a passing grade of C or better.\n- An unforeseen and documented emergency (medical illness, bereavement, or military obligation) prevents timely completion of final examinations or terminal projects.\n- An Incomplete Contract is formally signed between the instructor and student via the Registrar's Portal before final grades are submitted.\nAll incomplete work must be submitted no later than the end of the subsequent regular semester (Fall or Spring), regardless of enrollment status. If the coursework is not submitted within this timeline, the \"I\" grade automatically converts to a permanent grade of \"F\" (or \"No Credit\").\n\nSection 4: Dean's Honor List Requirements\nTo qualify for the Dean's Honor List in any given Fall or Spring semester, an undergraduate student must:\n- Complete a minimum of 12 letter-graded semester units (courses taken for Pass/No Pass do not count toward this 12-unit minimum).\n- Attain a semester GPA of 3.50 or higher.\n- Have no grades of \"I\", \"F\", or \"NC\" on their semester record.\nDean's Honor citations appear permanently on official academic transcripts.\n\nSection 5: Academic Standing, Probation, and Disqualification\nA student is placed on Academic Probation whenever their cumulative University GPA falls below 2.00. While on Academic Probation, students are limited to enrolling in a maximum of 13 credit units per term and must meet with an Academic Success Counselor prior to registration.\nIf a student on academic probation fails to raise their cumulative GPA to at least 2.00 after two consecutive regular semesters, they become subject to Academic Disqualification. Disqualified students are separated from the university for at least one calendar year before being eligible to petition for academic reinstatement.",
+      "id": "doc-campus-1",
+      "chunks": [
+        {
+          "id": "doc-campus-1-chunk-1",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "General Policy",
+          "text": "CAMPUS UNIVERSITY - UNDERGRADUATE ACADEMIC POLICIES & PROCEDURES (2025-2026)",
+          "charCount": 76
+        },
+        {
+          "id": "doc-campus-1-chunk-2",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "Section 1: Course Add / Drop and Census Deadlines",
+          "text": "Section 1: Course Add / Drop and Census Deadlines\nStudents may add or drop classes without academic or financial penalty through 11:59 PM on the 10th instructional day of the fall or spring semester, known as the Official University Census Date. Classes dropped before or on Census Date leave no mark on the official transcript, and 100% of applicable tuition charges for dropped units are credited back to the student account.\nCourses dropped after Census Date through the end of the 10th week of the semester require an instructor signature and will result in an official \"W\" (Withdrawal) notation on the transcript. Withdrawals carry no GPA penalty, but tuition is non-refundable. Students are permitted a maximum lifetime limit of 18 semester withdrawal units across their entire undergraduate career. Withdrawals requested after Week 10 are considered Emergency Withdrawals and require documented catastrophic circumstances approved by the Dean of Undergraduate Studies.",
+          "charCount": 975
+        },
+        {
+          "id": "doc-campus-1-chunk-3",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "Section 2: Grade Forgiveness & Course Repetition Policy",
+          "text": "Section 2: Grade Forgiveness & Course Repetition Policy\nUndergraduate students are permitted to repeat up to 16 semester credit units for Grade Forgiveness. When an eligible course is repeated for forgiveness:\n1. Only the newly earned grade is calculated into the cumulative grade point average (GPA).\n2. The initial grade earned remains visible on the official transcript annotated with an \"R\" (Repeated) notation.\n3. Grade forgiveness only applies to courses where the first grade earned was a C-, D+, D, D-, or F.\n4. An individual course may only be repeated twice (maximum of three total attempts). A third attempt requires prior written authorization from the Department Chair and College Dean.\n5. If a student exhausts their 16 units of Grade Forgiveness, subsequent repeated units will be averaged together with the original grade in the GPA calculation.",
+          "charCount": 861
+        },
+        {
+          "id": "doc-campus-1-chunk-4",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "Section 3: Incomplete (\"I\") Grade Guidelines",
+          "text": "Section 3: Incomplete (\"I\") Grade Guidelines\nAn Incomplete (\"I\") grade may be assigned by a course instructor only when:\n- The student has successfully completed at least 70% of total coursework with a passing grade of C or better.\n- An unforeseen and documented emergency (medical illness, bereavement, or military obligation) prevents timely completion of final examinations or terminal projects.\n- An Incomplete Contract is formally signed between the instructor and student via the Registrar's Portal before final grades are submitted.\nAll incomplete work must be submitted no later than the end of the subsequent regular semester (Fall or Spring), regardless of enrollment status. If the coursework is not submitted within this timeline, the \"I\" grade automatically converts to a permanent grade of \"F\" (or \"No Credit\").",
+          "charCount": 825
+        },
+        {
+          "id": "doc-campus-1-chunk-5",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "Section 4: Dean's Honor List Requirements",
+          "text": "Section 4: Dean's Honor List Requirements\nTo qualify for the Dean's Honor List in any given Fall or Spring semester, an undergraduate student must:\n- Complete a minimum of 12 letter-graded semester units (courses taken for Pass/No Pass do not count toward this 12-unit minimum).\n- Attain a semester GPA of 3.50 or higher.\n- Have no grades of \"I\", \"F\", or \"NC\" on their semester record.\nDean's Honor citations appear permanently on official academic transcripts.",
+          "charCount": 461
+        },
+        {
+          "id": "doc-campus-1-chunk-6",
+          "docId": "doc-campus-1",
+          "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+          "sectionTitle": "Section 5: Academic Standing, Probation, and Disqualification",
+          "text": "Section 5: Academic Standing, Probation, and Disqualification\nA student is placed on Academic Probation whenever their cumulative University GPA falls below 2.00. While on Academic Probation, students are limited to enrolling in a maximum of 13 credit units per term and must meet with an Academic Success Counselor prior to registration.\nIf a student on academic probation fails to raise their cumulative GPA to at least 2.00 after two consecutive regular semesters, they become subject to Academic Disqualification. Disqualified students are separated from the university for at least one calendar year before being eligible to petition for academic reinstatement.",
+          "charCount": 666
+        }
+      ],
+      "createdAt": "2026-10-08T07:13:19.657Z",
+      "updatedAt": "2026-10-08T07:13:19.657Z"
+    },
+    {
+      "title": "Student Financial Aid & Emergency Relief Grants Handbook",
+      "category": "Financial Aid",
+      "filename": "financial_aid_and_emergency_grants.txt",
+      "mimeType": "text/plain",
+      "sizeBytes": 3900,
+      "active": true,
+      "isDemo": true,
+      "content": "CAMPUS UNIVERSITY - OFFICE OF FINANCIAL AID & SCHOLARSHIPS\n\nSection 1: Application Priority Deadlines\nThe annual priority filing deadline for the Free Application for Federal Student Aid (FAFSA) and the State Dream Act Application is March 2 for the upcoming academic year. Students who submit after March 2 are evaluated on a funds-available basis and may forfeit state grant entitlements.\nAll requested verification documents, tax transcripts, and household verification forms must be uploaded to the Student Financial Aid Portal by June 1 to guarantee disbursement prior to the start of Fall semester classes.\n\nSection 2: Satisfactory Academic Progress (SAP) Standards\nFederal and state regulations require all financial aid recipients to maintain Satisfactory Academic Progress (SAP) across three criteria:\n1. Qualitative Measure (GPA): Undergraduate students must maintain a cumulative GPA of at least 2.00. Graduate students must maintain at least 3.00.\n2. Quantitative Measure (Pace of Progression): Students must successfully complete at least 67% of all cumulative units attempted (calculated by dividing completed units by attempted units, including transfer credits).\n3. Maximum Timeframe: Students must complete their degree program within 150% of the published program length (for a 120-unit bachelor's degree, the maximum allowed attempted units is 180 units).\nStudents failing to meet SAP are placed on Financial Aid Warning for one semester with continued aid eligibility. If SAP criteria are not met by the end of the warning semester, aid is suspended. Suspended students may submit an SAP Appeal with third-party documentation for extenuating circumstances.\n\nSection 3: Dean's Student Emergency Relief Fund (Emergency Grants)\nThe University Student Emergency Relief Fund provides one-time emergency grants of up to $1,500 per academic year to currently enrolled students facing sudden, unforeseen financial hardships that threaten their academic continuity.\nEligible emergency expenses include:\n- Unanticipated medical, dental, or prescription expenses not covered by insurance.\n- Immediate housing instability, risk of eviction, or temporary emergency lodging.\n- Urgent food insecurity or utility shut-off notices.\n- Essential academic technology replacement (such as a broken laptop required for coursework).\nIneligible expenses include: ongoing university tuition, credit card debt, non-essential travel, or discretionary living costs.\nApplications are reviewed within 2 to 3 business days by the Student Life Emergency Committee. Approved grants are disbursed via direct deposit within 48 hours and do not require repayment.\n\nSection 4: Tuition Installment Payment Plans\nThe Bursar's Office offers semester Tuition Installment Plans allowing tuition and campus fees to be divided into 3 or 4 equal monthly payments:\n- 4-Payment Plan: Due on August 15, September 15, October 15, and November 15 (Fall term).\n- A non-refundable $35 administrative enrollment fee is applied per semester plan.\n- A $25 late fee is assessed for any installment received after the 5-day grace period. Students with overdue balances are subject to a registration hold on future terms.",
+      "id": "doc-campus-2",
+      "chunks": [
+        {
+          "id": "doc-campus-2-chunk-1",
+          "docId": "doc-campus-2",
+          "docTitle": "Student Financial Aid & Emergency Relief Grants Handbook",
+          "sectionTitle": "General Policy",
+          "text": "CAMPUS UNIVERSITY - OFFICE OF FINANCIAL AID & SCHOLARSHIPS",
+          "charCount": 58
+        },
+        {
+          "id": "doc-campus-2-chunk-2",
+          "docId": "doc-campus-2",
+          "docTitle": "Student Financial Aid & Emergency Relief Grants Handbook",
+          "sectionTitle": "Section 1: Application Priority Deadlines",
+          "text": "Section 1: Application Priority Deadlines\nThe annual priority filing deadline for the Free Application for Federal Student Aid (FAFSA) and the State Dream Act Application is March 2 for the upcoming academic year. Students who submit after March 2 are evaluated on a funds-available basis and may forfeit state grant entitlements.\nAll requested verification documents, tax transcripts, and household verification forms must be uploaded to the Student Financial Aid Portal by June 1 to guarantee disbursement prior to the start of Fall semester classes.",
+          "charCount": 552
+        },
+        {
+          "id": "doc-campus-2-chunk-3",
+          "docId": "doc-campus-2",
+          "docTitle": "Student Financial Aid & Emergency Relief Grants Handbook",
+          "sectionTitle": "Section 2: Satisfactory Academic Progress (SAP) Standards",
+          "text": "Section 2: Satisfactory Academic Progress (SAP) Standards\nFederal and state regulations require all financial aid recipients to maintain Satisfactory Academic Progress (SAP) across three criteria:\n1. Qualitative Measure (GPA): Undergraduate students must maintain a cumulative GPA of at least 2.00. Graduate students must maintain at least 3.00.\n2. Quantitative Measure (Pace of Progression): Students must successfully complete at least 67% of all cumulative units attempted (calculated by dividing completed units by attempted units, including transfer credits).\n3. Maximum Timeframe: Students must complete their degree program within 150% of the published program length (for a 120-unit bachelor's degree, the maximum allowed attempted units is 180 units).\nStudents failing to meet SAP are placed on Financial Aid Warning for one semester with continued aid eligibility. If SAP criteria are not met by the end of the warning semester, aid is suspended. Suspended students may submit an SAP Appeal with third-party documentation for extenuating circumstances.",
+          "charCount": 1062
+        },
+        {
+          "id": "doc-campus-2-chunk-4",
+          "docId": "doc-campus-2",
+          "docTitle": "Student Financial Aid & Emergency Relief Grants Handbook",
+          "sectionTitle": "Section 3: Dean's Student Emergency Relief Fund (Emergency Grants)",
+          "text": "Section 3: Dean's Student Emergency Relief Fund (Emergency Grants)\nThe University Student Emergency Relief Fund provides one-time emergency grants of up to $1,500 per academic year to currently enrolled students facing sudden, unforeseen financial hardships that threaten their academic continuity.\nEligible emergency expenses include:\n- Unanticipated medical, dental, or prescription expenses not covered by insurance.\n- Immediate housing instability, risk of eviction, or temporary emergency lodging.\n- Urgent food insecurity or utility shut-off notices.\n- Essential academic technology replacement (such as a broken laptop required for coursework).\nIneligible expenses include: ongoing university tuition, credit card debt, non-essential travel, or discretionary living costs.\nApplications are reviewed within 2 to 3 business days by the Student Life Emergency Committee. Approved grants are disbursed via direct deposit within 48 hours and do not require repayment.",
+          "charCount": 969
+        },
+        {
+          "id": "doc-campus-2-chunk-5",
+          "docId": "doc-campus-2",
+          "docTitle": "Student Financial Aid & Emergency Relief Grants Handbook",
+          "sectionTitle": "Section 4: Tuition Installment Payment Plans",
+          "text": "Section 4: Tuition Installment Payment Plans\nThe Bursar's Office offers semester Tuition Installment Plans allowing tuition and campus fees to be divided into 3 or 4 equal monthly payments:\n- 4-Payment Plan: Due on August 15, September 15, October 15, and November 15 (Fall term).\n- A non-refundable $35 administrative enrollment fee is applied per semester plan.\n- A $25 late fee is assessed for any installment received after the 5-day grace period. Students with overdue balances are subject to a registration hold on future terms.",
+          "charCount": 534
+        }
+      ],
+      "createdAt": "2026-10-08T07:13:19.657Z",
+      "updatedAt": "2026-10-08T07:13:19.657Z"
+    },
+    {
+      "title": "Residential Life, Housing Regulations & Move-in Policies",
+      "category": "Housing & Dining",
+      "filename": "housing_and_residential_regulations.txt",
+      "mimeType": "text/plain",
+      "sizeBytes": 3700,
+      "active": true,
+      "isDemo": true,
+      "content": "CAMPUS UNIVERSITY - DEPARTMENT OF HOUSING & RESIDENTIAL LIFE\n\nSection 1: Quiet Hours & Courtesy Policy\nTo ensure an environment conducive to studying and sleep, designated Quiet Hours are enforced in all university residence halls and campus apartments:\n- Sunday through Thursday: 10:00 PM to 8:00 AM.\n- Friday and Saturday: 12:00 Midnight to 9:00 AM.\nCourtesy Hours are in effect 24 hours a day, 7 days a week. During Courtesy Hours, residents must promptly reduce noise if requested by a neighbor or Resident Advisor (RA).\nDuring Final Exam Weeks (commencing at 10:00 PM on the Friday before finals begin through the end of the term), continuous 24-Hour Quiet Hours are strictly enforced throughout all residential communities.\n\nSection 2: Room Change and Freeze Periods\nA two-week \"Room Freeze\" is enforced during the first two instructional weeks of both Fall and Spring semesters. During the Room Freeze, no room transfer requests will be accepted or processed while staff confirm building occupancy.\nBeginning at 9:00 AM on Monday of Week 3, the Housing Room Transfer Portal opens. Students wishing to swap rooms must:\n1. Complete the Room Swap Request form in the portal.\n2. Meet with their Resident Director (RD) to discuss room dynamics and resolve interpersonal conflicts if applicable.\n3. Receive written authorization from Housing Assignments before moving any personal possessions. Unauthorized room swaps result in a $100 administrative penalty fee per resident.\n\nSection 3: Guest & Overnight Visitor Rules\nResidents may host up to two guests simultaneously. Overnight visitors may stay in a residence hall for a maximum of 3 consecutive nights and no more than 6 total nights within any 30-day calendar period.\nAll guests must be registered at the building security desk upon arrival and must present a government-issued photo ID. Overnight guests must receive express consent from all room or suite roommates prior to arrival.\n\nSection 4: Lockouts and Key Replacement\nResidents locked out of their room or suite may request assistance from the Front Desk or the On-Duty RA:\n- Each resident receives one (1) complimentary lockout assistance per academic semester.\n- Subsequent lockouts incur a $15 service charge billed to the student bursar account.\n- Lost hard metal keys must be reported immediately for resident safety; a complete cylinder core re-key and replacement fee is $75. Lost electronic tap keycards cost $25 to re-issue.",
+      "id": "doc-campus-3",
+      "chunks": [
+        {
+          "id": "doc-campus-3-chunk-1",
+          "docId": "doc-campus-3",
+          "docTitle": "Residential Life, Housing Regulations & Move-in Policies",
+          "sectionTitle": "General Policy",
+          "text": "CAMPUS UNIVERSITY - DEPARTMENT OF HOUSING & RESIDENTIAL LIFE",
+          "charCount": 60
+        },
+        {
+          "id": "doc-campus-3-chunk-2",
+          "docId": "doc-campus-3",
+          "docTitle": "Residential Life, Housing Regulations & Move-in Policies",
+          "sectionTitle": "Section 1: Quiet Hours & Courtesy Policy",
+          "text": "Section 1: Quiet Hours & Courtesy Policy\nTo ensure an environment conducive to studying and sleep, designated Quiet Hours are enforced in all university residence halls and campus apartments:\n- Sunday through Thursday: 10:00 PM to 8:00 AM.\n- Friday and Saturday: 12:00 Midnight to 9:00 AM.\nCourtesy Hours are in effect 24 hours a day, 7 days a week. During Courtesy Hours, residents must promptly reduce noise if requested by a neighbor or Resident Advisor (RA).\nDuring Final Exam Weeks (commencing at 10:00 PM on the Friday before finals begin through the end of the term), continuous 24-Hour Quiet Hours are strictly enforced throughout all residential communities.",
+          "charCount": 667
+        },
+        {
+          "id": "doc-campus-3-chunk-3",
+          "docId": "doc-campus-3",
+          "docTitle": "Residential Life, Housing Regulations & Move-in Policies",
+          "sectionTitle": "Section 2: Room Change and Freeze Periods",
+          "text": "Section 2: Room Change and Freeze Periods\nA two-week \"Room Freeze\" is enforced during the first two instructional weeks of both Fall and Spring semesters. During the Room Freeze, no room transfer requests will be accepted or processed while staff confirm building occupancy.\nBeginning at 9:00 AM on Monday of Week 3, the Housing Room Transfer Portal opens. Students wishing to swap rooms must:\n1. Complete the Room Swap Request form in the portal.\n2. Meet with their Resident Director (RD) to discuss room dynamics and resolve interpersonal conflicts if applicable.\n3. Receive written authorization from Housing Assignments before moving any personal possessions. Unauthorized room swaps result in a $100 administrative penalty fee per resident.",
+          "charCount": 745
+        },
+        {
+          "id": "doc-campus-3-chunk-4",
+          "docId": "doc-campus-3",
+          "docTitle": "Residential Life, Housing Regulations & Move-in Policies",
+          "sectionTitle": "Section 3: Guest & Overnight Visitor Rules",
+          "text": "Section 3: Guest & Overnight Visitor Rules\nResidents may host up to two guests simultaneously. Overnight visitors may stay in a residence hall for a maximum of 3 consecutive nights and no more than 6 total nights within any 30-day calendar period.\nAll guests must be registered at the building security desk upon arrival and must present a government-issued photo ID. Overnight guests must receive express consent from all room or suite roommates prior to arrival.",
+          "charCount": 464
+        },
+        {
+          "id": "doc-campus-3-chunk-5",
+          "docId": "doc-campus-3",
+          "docTitle": "Residential Life, Housing Regulations & Move-in Policies",
+          "sectionTitle": "Section 4: Lockouts and Key Replacement",
+          "text": "Section 4: Lockouts and Key Replacement\nResidents locked out of their room or suite may request assistance from the Front Desk or the On-Duty RA:\n- Each resident receives one (1) complimentary lockout assistance per academic semester.\n- Subsequent lockouts incur a $15 service charge billed to the student bursar account.\n- Lost hard metal keys must be reported immediately for resident safety; a complete cylinder core re-key and replacement fee is $75. Lost electronic tap keycards cost $25 to re-issue.",
+          "charCount": 505
+        }
+      ],
+      "createdAt": "2026-10-08T07:13:19.657Z",
+      "updatedAt": "2026-10-08T07:13:19.657Z"
+    },
+    {
+      "title": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+      "category": "Health & Wellness",
+      "filename": "student_health_and_wellness_guide.txt",
+      "mimeType": "text/plain",
+      "sizeBytes": 3600,
+      "active": true,
+      "isDemo": true,
+      "content": "CAMPUS UNIVERSITY - STUDENT HEALTH & WELLNESS CENTER\n\nSection 1: Student Health Clinic Hours and Services\nThe Student Health Center is located in Health Sciences Building 400.\nOperating Hours:\n- Monday through Thursday: 8:00 AM to 5:30 PM\n- Friday: 9:00 AM to 4:30 PM\n- Saturday & Sunday: Closed (after-hours telehealth triage available via phone).\nServices provided include routine primary care, preventative physical exams, urgent care for acute minor illness or injury, laboratory testing, STI screening, and prescription dispensary services.\nWalk-in triage is available for acute symptoms (such as high fever, allergic reactions, lacerations, or asthma flare-ups) from 9:00 AM to 4:00 PM on weekdays.\n\nSection 2: Counseling and Psychological Services (CAPS)\nEvery currently matriculated student paying mandatory student health fees is entitled to up to 12 free individual counseling sessions per academic year with a licensed psychologist or clinical social worker.\nInitial intake triage appointments can be scheduled online or accessed via Same-Day Drop-In Triage between 10:00 AM and 3:00 PM, Monday through Friday.\nSpecialty counseling options include:\n- Individual psychotherapy for depression, anxiety, academic stress, and life transitions.\n- Unlimited drop-in wellness support groups (e.g., Graduate Student Support, First-Gen Resilience, LGBTQ+ Affinity Circle).\n- Psychiatric medication evaluation and management.\n\nSection 3: 24/7 Crisis Helpline Support\nStudents experiencing an acute mental health crisis, overwhelming distress, or thoughts of self-harm can contact the University 24/7 Crisis Helpline at (555) 019-HELP (4357) anytime day or night.\nStudents can also text the National Crisis Text Line by texting \"CAMPUS\" to 741741 to connect with a trained crisis counselor free of charge. In life-threatening emergencies, call University Police Dispatch at (555) 019-9111 or dial 911.\n\nSection 4: Mandatory Immunization Compliance\nAll incoming undergraduate, graduate, and exchange students must submit verified immunization documentation via the Patient Portal prior to enrolling for their second semester:\n- Measles, Mumps, Rubella (MMR): Two doses or laboratory titer proof of immunity.\n- Meningococcal ACWY (MenACWY): One dose on or after age 16 for all students living in campus housing.\n- Tetanus-Diphtheria-Pertussis (Tdap): One booster dose within the past 10 years.\nA registration hold is automatically placed on course enrollment for students failing to complete immunization clearance by November 1 (Fall entrants) or April 1 (Spring entrants).",
+      "id": "doc-campus-4",
+      "chunks": [
+        {
+          "id": "doc-campus-4-chunk-1",
+          "docId": "doc-campus-4",
+          "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+          "sectionTitle": "General Policy",
+          "text": "CAMPUS UNIVERSITY - STUDENT HEALTH & WELLNESS CENTER",
+          "charCount": 52
+        },
+        {
+          "id": "doc-campus-4-chunk-2",
+          "docId": "doc-campus-4",
+          "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+          "sectionTitle": "Section 1: Student Health Clinic Hours and Services",
+          "text": "Section 1: Student Health Clinic Hours and Services\nThe Student Health Center is located in Health Sciences Building 400.\nOperating Hours:\n- Monday through Thursday: 8:00 AM to 5:30 PM\n- Friday: 9:00 AM to 4:30 PM\n- Saturday & Sunday: Closed (after-hours telehealth triage available via phone).\nServices provided include routine primary care, preventative physical exams, urgent care for acute minor illness or injury, laboratory testing, STI screening, and prescription dispensary services.\nWalk-in triage is available for acute symptoms (such as high fever, allergic reactions, lacerations, or asthma flare-ups) from 9:00 AM to 4:00 PM on weekdays.",
+          "charCount": 650
+        },
+        {
+          "id": "doc-campus-4-chunk-3",
+          "docId": "doc-campus-4",
+          "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+          "sectionTitle": "Section 2: Counseling and Psychological Services (CAPS)",
+          "text": "Section 2: Counseling and Psychological Services (CAPS)\nEvery currently matriculated student paying mandatory student health fees is entitled to up to 12 free individual counseling sessions per academic year with a licensed psychologist or clinical social worker.\nInitial intake triage appointments can be scheduled online or accessed via Same-Day Drop-In Triage between 10:00 AM and 3:00 PM, Monday through Friday.\nSpecialty counseling options include:\n- Individual psychotherapy for depression, anxiety, academic stress, and life transitions.\n- Unlimited drop-in wellness support groups (e.g., Graduate Student Support, First-Gen Resilience, LGBTQ+ Affinity Circle).\n- Psychiatric medication evaluation and management.",
+          "charCount": 720
+        },
+        {
+          "id": "doc-campus-4-chunk-4",
+          "docId": "doc-campus-4",
+          "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+          "sectionTitle": "Section 3: 24/7 Crisis Helpline Support",
+          "text": "Section 3: 24/7 Crisis Helpline Support\nStudents experiencing an acute mental health crisis, overwhelming distress, or thoughts of self-harm can contact the University 24/7 Crisis Helpline at (555) 019-HELP (4357) anytime day or night.\nStudents can also text the National Crisis Text Line by texting \"CAMPUS\" to 741741 to connect with a trained crisis counselor free of charge. In life-threatening emergencies, call University Police Dispatch at (555) 019-9111 or dial 911.",
+          "charCount": 473
+        },
+        {
+          "id": "doc-campus-4-chunk-5",
+          "docId": "doc-campus-4",
+          "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+          "sectionTitle": "Section 4: Mandatory Immunization Compliance",
+          "text": "Section 4: Mandatory Immunization Compliance\nAll incoming undergraduate, graduate, and exchange students must submit verified immunization documentation via the Patient Portal prior to enrolling for their second semester:\n- Measles, Mumps, Rubella (MMR): Two doses or laboratory titer proof of immunity.\n- Meningococcal ACWY (MenACWY): One dose on or after age 16 for all students living in campus housing.\n- Tetanus-Diphtheria-Pertussis (Tdap): One booster dose within the past 10 years.\nA registration hold is automatically placed on course enrollment for students failing to complete immunization clearance by November 1 (Fall entrants) or April 1 (Spring entrants).",
+          "charCount": 669
+        }
+      ],
+      "createdAt": "2026-10-08T07:13:19.657Z",
+      "updatedAt": "2026-10-08T07:13:19.657Z"
+    },
+    {
+      "title": "Campus Parking Regulations, Transportation & Shuttle Services",
+      "category": "Campus Transit",
+      "filename": "parking_transportation_rules.txt",
+      "mimeType": "text/plain",
+      "sizeBytes": 3500,
+      "active": true,
+      "isDemo": true,
+      "content": "CAMPUS UNIVERSITY - PARKING & TRANSPORTATION SERVICES\n\nSection 1: Student Parking Permit Categories\nParking permits are required in all campus lots Monday through Friday from 7:00 AM to 8:00 PM. All permits are virtual and linked directly to student license plates.\nAvailable Permit Tiers:\n- Commuter Permit (Gold Tier): Valid in Surface Lots 1 through 9, North Parking Structure, and West Parking Structure. Cost: $185 per semester.\n- Resident Student Permit (Blue Tier): Restricted to students living in campus housing. Valid exclusively in East Residential Parking Structure Floors 2 through 6. Cost: $210 per semester.\n- Evening Only Permit: Valid after 4:00 PM in all student commuter lots. Cost: $95 per semester.\n- Daily Visitor Passes: Available for $8 per day via the ParkMobile mobile app (Zone 4402).\n\nSection 2: Campus Blue Line Shuttle & Night Escort Service\nThe Blue Line Shuttle provides continuous, free bus transit connecting university residential communities, academic buildings, and the regional Transit Hub:\n- Operating Schedule: Weekdays every 8 to 12 minutes between 7:00 AM and 10:30 PM.\n- Weekend Schedule: Runs every 25 minutes between 10:00 AM and 7:00 PM.\nNight Escort & SafeRide:\nBetween 9:00 PM and 3:00 AM every night, students traveling alone across campus or within a 1.5-mile perimeter can request a free on-demand vehicular SafeRide or walking safety escort by calling (555) 019-RIDE or using the Campus Safe mobile app.\n\nSection 3: Citation Appeals & Violation Enforcement\nParking regulations are enforced year-round. Vehicles parked without a valid virtual permit or in reserved ADA / Faculty stalls are subject to citations ($45 to $250).\nAppeal Guidelines:\n- Citations must be formally appealed online via the Parking Portal within 14 calendar days of issuance.\n- Appeals submitted after 14 calendar days will not be considered under any circumstances.\n- Lack of parking spaces, ignorance of regulations, running late for an exam, or inclement weather do not constitute valid grounds for citation dismissal.",
+      "id": "doc-campus-5",
+      "chunks": [
+        {
+          "id": "doc-campus-5-chunk-1",
+          "docId": "doc-campus-5",
+          "docTitle": "Campus Parking Regulations, Transportation & Shuttle Services",
+          "sectionTitle": "General Policy",
+          "text": "CAMPUS UNIVERSITY - PARKING & TRANSPORTATION SERVICES",
+          "charCount": 53
+        },
+        {
+          "id": "doc-campus-5-chunk-2",
+          "docId": "doc-campus-5",
+          "docTitle": "Campus Parking Regulations, Transportation & Shuttle Services",
+          "sectionTitle": "Section 1: Student Parking Permit Categories",
+          "text": "Section 1: Student Parking Permit Categories\nParking permits are required in all campus lots Monday through Friday from 7:00 AM to 8:00 PM. All permits are virtual and linked directly to student license plates.\nAvailable Permit Tiers:\n- Commuter Permit (Gold Tier): Valid in Surface Lots 1 through 9, North Parking Structure, and West Parking Structure. Cost: $185 per semester.\n- Resident Student Permit (Blue Tier): Restricted to students living in campus housing. Valid exclusively in East Residential Parking Structure Floors 2 through 6. Cost: $210 per semester.\n- Evening Only Permit: Valid after 4:00 PM in all student commuter lots. Cost: $95 per semester.\n- Daily Visitor Passes: Available for $8 per day via the ParkMobile mobile app (Zone 4402).",
+          "charCount": 756
+        },
+        {
+          "id": "doc-campus-5-chunk-3",
+          "docId": "doc-campus-5",
+          "docTitle": "Campus Parking Regulations, Transportation & Shuttle Services",
+          "sectionTitle": "Section 2: Campus Blue Line Shuttle & Night Escort Service",
+          "text": "Section 2: Campus Blue Line Shuttle & Night Escort Service\nThe Blue Line Shuttle provides continuous, free bus transit connecting university residential communities, academic buildings, and the regional Transit Hub:\n- Operating Schedule: Weekdays every 8 to 12 minutes between 7:00 AM and 10:30 PM.\n- Weekend Schedule: Runs every 25 minutes between 10:00 AM and 7:00 PM.\nNight Escort & SafeRide:\nBetween 9:00 PM and 3:00 AM every night, students traveling alone across campus or within a 1.5-mile perimeter can request a free on-demand vehicular SafeRide or walking safety escort by calling (555) 019-RIDE or using the Campus Safe mobile app.",
+          "charCount": 642
+        },
+        {
+          "id": "doc-campus-5-chunk-4",
+          "docId": "doc-campus-5",
+          "docTitle": "Campus Parking Regulations, Transportation & Shuttle Services",
+          "sectionTitle": "Section 3: Citation Appeals & Violation Enforcement",
+          "text": "Section 3: Citation Appeals & Violation Enforcement\nParking regulations are enforced year-round. Vehicles parked without a valid virtual permit or in reserved ADA / Faculty stalls are subject to citations ($45 to $250).\nAppeal Guidelines:\n- Citations must be formally appealed online via the Parking Portal within 14 calendar days of issuance.\n- Appeals submitted after 14 calendar days will not be considered under any circumstances.\n- Lack of parking spaces, ignorance of regulations, running late for an exam, or inclement weather do not constitute valid grounds for citation dismissal.",
+          "charCount": 589
+        }
+      ],
+      "createdAt": "2026-10-08T07:13:19.657Z",
+      "updatedAt": "2026-10-08T07:13:19.657Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv-1791443611096-lfsx",
+      "title": "How many times can I repeat a course for grade f...",
+      "createdAt": "2026-10-08T07:13:31.096Z",
+      "updatedAt": "2026-10-08T07:13:35.860Z",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How many times can I repeat a course for grade forgiveness?",
+          "id": "msg-1791443611097-vu9c",
+          "createdAt": "2026-10-08T07:13:31.097Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Based on **Undergraduate Academic Regulations & Grading Handbook (2025-2026)** (*Section 2: Grade Forgiveness & Course Repetition Policy*):\n\nSection 2: Grade Forgiveness & Course Repetition Policy\nUndergraduate students are permitted to repeat up to 16 semester credit units for Grade Forgiveness. When an eligible course is repeated for forgiveness:\n1. Only the newly earned grade is calculated into the cumulative grade point average (GPA).\n2. The initial grade earned remains visible on the official transcript annotated with an \"R\" (Repeated) notation.\n3. Grade forgiveness only applies to courses where the first grade earned was a C-, D+, D, D-, or F.\n4. An individual course may only be repeated twice (maximum of three total attempts). A third attempt requires prior written authorization from the Department Chair and College Dean.\n5. If a student exhausts their 16 units of Grade Forgiveness, subsequent repeated units will be averaged together with the original grade in the GPA calculation.\n\n*Source: Official Campus Knowledge Base*",
+          "citations": [
+            {
+              "docId": "doc-campus-1",
+              "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+              "sectionTitle": "Section 2: Grade Forgiveness & Course Repetition Policy",
+              "excerpt": "Section 2: Grade Forgiveness & Course Repetition Policy\nUndergraduate students are permitted to repeat up to 16 semester credit units for Grade Forgiveness. When an eligible course is repeated for for..."
+            },
+            {
+              "docId": "doc-campus-1",
+              "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+              "sectionTitle": "Section 3: Incomplete (\"I\") Grade Guidelines",
+              "excerpt": "Section 3: Incomplete (\"I\") Grade Guidelines\nAn Incomplete (\"I\") grade may be assigned by a course instructor only when:\n- The student has successfully completed at least 70% of total coursework with ..."
+            },
+            {
+              "docId": "doc-campus-1",
+              "docTitle": "Undergraduate Academic Regulations & Grading Handbook (2025-2026)",
+              "sectionTitle": "Section 1: Course Add / Drop and Census Deadlines",
+              "excerpt": "Section 1: Course Add / Drop and Census Deadlines\nStudents may add or drop classes without academic or financial penalty through 11:59 PM on the 10th instructional day of the fall or spring semester, ..."
+            },
+            {
+              "docId": "doc-campus-4",
+              "docTitle": "Student Health Center & Counseling Psychological Services (CAPS) Guide",
+              "sectionTitle": "Section 4: Mandatory Immunization Compliance",
+              "excerpt": "Section 4: Mandatory Immunization Compliance\nAll incoming undergraduate, graduate, and exchange students must submit verified immunization documentation via the Patient Portal prior to enrolling for t..."
+            }
+          ],
+          "isFallback": false,
+          "id": "msg-1791443615860-zd3p",
+          "createdAt": "2026-10-08T07:13:35.860Z"
+        }
+      ]
+    }
+  ],
+  "queryLogs": [
+    {
+      "conversationId": "conv-1791443611096-lfsx",
+      "query": "How many times can I repeat a course for grade forgiveness?",
+      "answered": true,
+      "category": "Academic",
+      "responseTimeMs": 4762,
+      "citationsCount": 4,
+      "id": "log-1791443615861-utm3",
+      "timestamp": "2026-10-08T07:13:35.861Z",
+      "resolved": false
+    },
+    {
+      "id": "log-1",
+      "conversationId": "conv-seed-1",
+      "query": "How many times can I repeat a course for grade forgiveness?",
+      "answered": true,
+      "category": "Academic",
+      "timestamp": "2026-10-08T07:13:19.664Z",
+      "responseTimeMs": 850,
+      "citationsCount": 2,
+      "resolved": false
+    },
+    {
+      "id": "log-2",
+      "conversationId": "conv-seed-2",
+      "query": "What is the maximum emergency grant amount I can receive?",
+      "answered": true,
+      "category": "Financial Aid",
+      "timestamp": "2026-10-08T06:13:19.664Z",
+      "responseTimeMs": 920,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-3",
+      "conversationId": "conv-seed-3",
+      "query": "Can I park in East Structure with a commuter gold pass?",
+      "answered": true,
+      "category": "Campus Transit",
+      "timestamp": "2026-10-07T05:13:19.664Z",
+      "responseTimeMs": 780,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-4",
+      "conversationId": "conv-seed-4",
+      "query": "What are the quiet hours on Saturday night in the dorms?",
+      "answered": true,
+      "category": "Housing & Dining",
+      "timestamp": "2026-10-07T04:13:19.664Z",
+      "responseTimeMs": 810,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-5",
+      "conversationId": "conv-seed-5",
+      "query": "How do I apply for the campus study abroad exchange in Madrid?",
+      "answered": false,
+      "unansweredReason": "Information not in campus knowledge base (International Programs missing)",
+      "category": "Academic",
+      "timestamp": "2026-10-07T03:13:19.664Z",
+      "responseTimeMs": 640,
+      "citationsCount": 0,
+      "resolved": false
+    },
+    {
+      "id": "log-6",
+      "conversationId": "conv-seed-6",
+      "query": "How many free counseling sessions do I get per year?",
+      "answered": true,
+      "category": "Health & Wellness",
+      "timestamp": "2026-10-06T02:13:19.664Z",
+      "responseTimeMs": 890,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-7",
+      "conversationId": "conv-seed-7",
+      "query": "Where do I drop off my chemistry lab goggles locker key?",
+      "answered": false,
+      "unansweredReason": "Department-specific policy not indexed",
+      "category": "Academic",
+      "timestamp": "2026-10-06T01:13:19.664Z",
+      "responseTimeMs": 590,
+      "citationsCount": 0,
+      "resolved": false
+    },
+    {
+      "id": "log-8",
+      "conversationId": "conv-seed-8",
+      "query": "What happens if I drop a class after Census date?",
+      "answered": true,
+      "category": "Academic",
+      "timestamp": "2026-10-05T00:13:19.664Z",
+      "responseTimeMs": 910,
+      "citationsCount": 2,
+      "resolved": false
+    },
+    {
+      "id": "log-9",
+      "conversationId": "conv-seed-9",
+      "query": "Are electric scooters allowed inside residence hall rooms?",
+      "answered": false,
+      "unansweredReason": "Specific electric micromobility policy not documented",
+      "category": "Housing & Dining",
+      "timestamp": "2026-10-04T23:13:19.664Z",
+      "responseTimeMs": 630,
+      "citationsCount": 0,
+      "resolved": false
+    },
+    {
+      "id": "log-10",
+      "conversationId": "conv-seed-10",
+      "query": "What is the priority filing deadline for FAFSA?",
+      "answered": true,
+      "category": "Financial Aid",
+      "timestamp": "2026-10-03T22:13:19.664Z",
+      "responseTimeMs": 790,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-11",
+      "conversationId": "conv-seed-11",
+      "query": "How much does the replacement tap card cost for dorm lockouts?",
+      "answered": true,
+      "category": "Housing & Dining",
+      "timestamp": "2026-10-02T21:13:19.664Z",
+      "responseTimeMs": 840,
+      "citationsCount": 1,
+      "resolved": false
+    },
+    {
+      "id": "log-12",
+      "conversationId": "conv-seed-12",
+      "query": "How long do I have to appeal a parking citation?",
+      "answered": true,
+      "category": "Campus Transit",
+      "timestamp": "2026-10-01T20:13:19.664Z",
+      "responseTimeMs": 830,
+      "citationsCount": 1,
+      "resolved": false
+    }
+  ]
+}

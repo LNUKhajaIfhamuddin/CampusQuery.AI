@@ -1,0 +1,6 @@
+{
+  "name": "CampusQuery AI - University Student Support & Knowledge Assistant",
+  "description": "Intelligent university student support assistant grounded in campus documents, policies, financial aid, and academic guides with citations and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
