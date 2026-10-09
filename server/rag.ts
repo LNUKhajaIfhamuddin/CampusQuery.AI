@@ -1,16 +1,26 @@
+import 'dotenv/config';
 import { GoogleGenAI } from '@google/genai';
 import { store, Chunk, Citation } from './data/store';
 
-// Initialize Gemini client strictly server-side
-const apiKey = process.env.GEMINI_API_KEY || '';
-const ai = new GoogleGenAI({
-  apiKey,
-  httpOptions: {
-    headers: {
-      'User-Agent': 'aistudio-build',
-    },
-  },
-});
+// Helper to obtain Gemini client dynamically using process.env
+function getGeminiClient(): { ai: GoogleGenAI; hasKey: boolean } {
+  const key = (process.env.GEMINI_API_KEY || '').trim();
+  const valid = Boolean(key && key !== 'MY_GEMINI_API_KEY' && key.length > 5);
+  if (!valid) {
+    return { ai: null as any, hasKey: false };
+  }
+  return {
+    ai: new GoogleGenAI({
+      apiKey: key,
+      httpOptions: {
+        headers: {
+          'User-Agent': 'aistudio-build',
+        },
+      },
+    }),
+    hasKey: true,
+  };
+}
 
 interface ScoredChunk {
   chunk: Chunk;
@@ -214,8 +224,10 @@ ${userQuery}
 Provide a comprehensive, accurate answer grounded in the passages above. Remember to cite your sources using [Doc: <docTitle>, Section: <sectionTitle>] and clearly state if any aspect of the question is not covered in the official passages.`;
 
   try {
-    if (!apiKey) {
-      console.warn('[RAG] No GEMINI_API_KEY detected. Using local fallback retrieval.');
+    const { ai, hasKey } = getGeminiClient();
+
+    if (!hasKey) {
+      console.warn('[RAG] No valid GEMINI_API_KEY detected in environment. Using local fallback retrieval.');
       const local = generateLocalFallbackAnswer(userQuery, retrieved);
       return {
         ...local,
